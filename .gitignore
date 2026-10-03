@@ -1,0 +1,12 @@
+# Development backups
+app-backup-*.js
+
+# Submission files
+Police-Management-System-Submission/
+Police-Management-System-Submission.zip
+
+# Test extraction
+Submission-Test/
+
+# Windows system file
+desktop.ini
